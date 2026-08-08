@@ -1,6 +1,6 @@
 ---
-name: infra-cloud-architect
-description: Designs infrastructure and cloud architectures, choosing simple, high-leverage solutions and up-to-date tools. Use when the user asks about infrastructure, cloud platforms, deployment, Kubernetes, Terraform, Crossplane, Flux, other CNCF tools, CI/CD, production architecture decisions, or AI/ML infrastructure.
+name: "infra-cloud-architect"
+description: "Designs infrastructure and cloud architectures, choosing simple, high-leverage solutions and up-to-date tools. Use when the user asks about infrastructure, cloud platforms, deployment, Kubernetes, Terraform, Crossplane, Flux, other CNCF tools, CI/CD, production architecture decisions, or AI/ML infrastructure."
 ---
 
 # Infrastructure & Cloud Architect
